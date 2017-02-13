@@ -18,4 +18,4 @@ Software engineering is not just about coding, it has a lot of project managemen
 8. Familiarization with any Version Control System like CVS/VSS/PVCS/Git etc.
 
 ### Make life more easier
-Use the git documentation for learing git. Git is the only way to collaborate on a project as a team rather than individuals with ideas.
+Use the git documentation for learning git. Git is the only way to collaborate on a project as a team rather than individuals with ideas.
